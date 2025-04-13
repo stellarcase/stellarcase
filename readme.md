@@ -1,6 +1,6 @@
 <div align="">
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=stellarcase&fontSize=55&color=0:8871e5,100:b678c4&stroke=b678c4" width="99999"></img>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=stellarcase&fontSize=52&color=transparent&stroke=5f81d1&animation=scaleIn" width="99999"></img>
 </p>
   
 ```bash
