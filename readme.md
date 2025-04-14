@@ -17,13 +17,13 @@ stellarcase — frontend dev, terminal aestheticist, code daydreamer
 │   ├── python
 │   ├── java
 │   ├── bash
-│   └── html
+│   └── markdown
 │
 ├── 🛠️ frameworks/
 │   ├── nodejs
 │   ├── astro
 │   ├── bun
-│   └── react
+│   ├── react
 │   └── tailwind
 │
 └── 🔧 tools/
