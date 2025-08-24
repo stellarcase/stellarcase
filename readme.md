@@ -6,13 +6,14 @@
 ```bash
 > whoami
 
-stellarcase — frontend dev, terminal aestheticist, code daydreamer
+stellarcase — frontend dev, terminal aestheticist, car (cat) lover
 ```
 
 ```bash
 > stack --list
 
 ├── 🧠 languages/
+│   ├── typescript
 │   ├── javascript
 │   ├── python
 │   ├── java
@@ -22,11 +23,13 @@ stellarcase — frontend dev, terminal aestheticist, code daydreamer
 ├── 🛠️ frameworks/
 │   ├── nodejs
 │   ├── astro
-│   ├── bun
-│   ├── react
+|   ├── react (?)
+│   ├── next.js
 │   └── tailwind
 │
 └── 🔧 tools/
+    ├── bun
+    ├── vite
     ├── vscode
     ├── netbeans
     ├── git
@@ -53,12 +56,11 @@ const about = {
 <summary><kbd>📂 /projects</kbd></summary>
 
 ```bash
-📁 dogenetwork/v4
+📁 dogenetwork/dogeub-v4
 📁 salytedev/eagler-1-12-launcher
 📁 stellarcase/freedns-autobot
 📁 stellarcase/advanced-ocr-api
 📁 stellarcase/shellaii
-🗑️ Recycle Bin (4)
 ```
 
 </details>
@@ -84,7 +86,7 @@ const about = {
 ```java
 String[] facts = {
     "I use Apple's SF font on almost all my sites",
-    "I once wrote a HTML webpage in morse code",
+    "I program in TI-BASIC!",
     "Saturn's moon Titan has lakes of liquid methane!",
     "The first email ever sent was 'qwertyuiop.'",
     "The Apollo 11 guidance computer ran at 0.043MHz"
