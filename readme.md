@@ -69,7 +69,7 @@ const about = {
 
 ```bash
 > git status
-4wk: away from coding ... grinding academics
+9/14: learning rust
 ```
 
 <img src="https://github-readme-stats.vercel.app/api?username=stellarcase&show_icons=true&hide_title=true&hide_border=true&theme=radical&count_private=true" width="48%"/>
