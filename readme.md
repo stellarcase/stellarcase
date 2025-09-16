@@ -74,7 +74,7 @@ const about = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=stellarcase&show_icons=true&hide_title=true&hide_border=true&theme=radical&count_private=true" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stellarcase&theme=radical&hide_border=true&background=00000000&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=stellarcase&theme=radical&hide_border=true&background=00000000&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
 
 </div>
 
